@@ -1,0 +1,6 @@
+F:\Documents\OASD\ThietKeLop\DTO\bin\Debug\DTO.dll
+F:\Documents\OASD\ThietKeLop\DTO\bin\Debug\DTO.pdb
+F:\Documents\OASD\ThietKeLop\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Documents\OASD\ThietKeLop\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Documents\OASD\ThietKeLop\DTO\obj\Debug\DTO.dll
+F:\Documents\OASD\ThietKeLop\DTO\obj\Debug\DTO.pdb

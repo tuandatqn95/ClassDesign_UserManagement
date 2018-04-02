@@ -1,0 +1,10 @@
+F:\Documents\OASD\ThietKeLop\BUS\bin\Debug\BUS.dll
+F:\Documents\OASD\ThietKeLop\BUS\bin\Debug\BUS.pdb
+F:\Documents\OASD\ThietKeLop\BUS\bin\Debug\DAO.dll
+F:\Documents\OASD\ThietKeLop\BUS\bin\Debug\DTO.dll
+F:\Documents\OASD\ThietKeLop\BUS\bin\Debug\DAO.pdb
+F:\Documents\OASD\ThietKeLop\BUS\bin\Debug\DTO.pdb
+F:\Documents\OASD\ThietKeLop\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Documents\OASD\ThietKeLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Documents\OASD\ThietKeLop\BUS\obj\Debug\BUS.dll
+F:\Documents\OASD\ThietKeLop\BUS\obj\Debug\BUS.pdb

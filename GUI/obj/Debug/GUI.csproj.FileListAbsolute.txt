@@ -1,0 +1,17 @@
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\GUI.exe.config
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\GUI.exe
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\GUI.pdb
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\BUS.dll
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\DTO.dll
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\DAO.dll
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\BUS.pdb
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\DTO.pdb
+F:\Documents\OASD\ThietKeLop\GUI\bin\Debug\DAO.pdb
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.frmLogin.resources
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.frmInfo.resources
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.exe
+F:\Documents\OASD\ThietKeLop\GUI\obj\Debug\GUI.pdb

@@ -1,0 +1,8 @@
+F:\Documents\OASD\ThietKeLop\DAO\bin\Debug\DAO.dll
+F:\Documents\OASD\ThietKeLop\DAO\bin\Debug\DAO.pdb
+F:\Documents\OASD\ThietKeLop\DAO\bin\Debug\DTO.dll
+F:\Documents\OASD\ThietKeLop\DAO\bin\Debug\DTO.pdb
+F:\Documents\OASD\ThietKeLop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\Documents\OASD\ThietKeLop\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\Documents\OASD\ThietKeLop\DAO\obj\Debug\DAO.dll
+F:\Documents\OASD\ThietKeLop\DAO\obj\Debug\DAO.pdb
